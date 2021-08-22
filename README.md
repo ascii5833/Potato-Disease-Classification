@@ -1,2 +1,2 @@
 # Tomato-Disease-Classification
-Classification of blight diseases in tomato leaves using machine learning techniques
+Classification of blight diseases in potato leaves using machine learning techniques
