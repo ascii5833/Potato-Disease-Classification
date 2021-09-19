@@ -1,0 +1,7 @@
+Method,Accuracy,Special Accuracy
+A.N.N,90,91.667
+SVM ,95,92.708
+K-means ,33,32
+K-means(P.C.A),55,32.8125
+Decision Tree,89.0625,85.9375
+Random Forest,92.1875,90.625
